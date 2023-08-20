@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+<table align="left">
+    <tr>
+        <td>
+            <b>
+              <a href="README.md"> 🇧🇷 Português </a>
+            </b>
+        </td>
+        <td>
+            <a href="readme-us.md"> 🇺🇸 English </a>
+        </td>
+    </tr>
+</table>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="right">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-In the project directory, you can run:
+<br> <br>
 
-### `npm start`
+# Validação de Formulário
+![](https://img.shields.io/badge/reactJS-20b2aa?style=for-the-badge&logo=react&logoColor=white)
+ ![](https://img.shields.io/badge/styled_components-fe4164?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Projeto
 
-### `npm test`
+O projeto está  em construção . . . 🚧
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+### ⚙ Funcionalidades 
+- Validação de formulário;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🛸 Requisitos
+- **React:** v18.2.0
+- **Node:** v18.17.1
+- Yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🛠 Execute a Aplicação
+Para executar a aplicação na sua máquina local, siga estes passos:
+<br>
+1. Clone o repositório usando o comando: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/iMetzker/cpfvalidator.git
+```
+2. Abra o projeto em seu ambiente de desenvolvimento.
 
-### `npm run eject`
+3. Certifique-se de de que o yarn esteja instalado. Caso contrário abra o terminal do seu ambiente de desenvolvimento e execute o comando:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+npm install -g yarn
+```
+4. Inicie o servidor para vizualizar o projeto usando o comando:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+yarn run start
+```
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛸 Tecnologias
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Esse projeto será desenvolvido com as seguintes tecnologias:
 
-## Learn More
+- React;
+- Styled Components;
+- Git.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 💻 Layout
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Layout em construção 🚧
 
-### Code Splitting
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="center">🔎 Site em execução indisponível
+</p>
 
-### Analyzing the Bundle Size
+## ✔ Licença
+Este projeto é licenciado sob os termos da Licença MIT — Consulte o arquivo <a href="/LICENSE">LICENSE</a> para obter detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="center">
+  <a href="/LICENSE">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  </a>
+</p>
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
